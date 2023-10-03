@@ -121,7 +121,7 @@ We can list out all the Environment Variables (Env Vars) using the `env` command
 
  ```
 
- ###Printing Vars
+ ### Printing Vars
 
  We can print an env var using echo eg. `echo $HELLO`
 
